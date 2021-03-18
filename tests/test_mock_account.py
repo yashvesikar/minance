@@ -1,7 +1,7 @@
 import unittest
 
-from pymoney.mock_account import MockAccount
-from pymoney.stock_api import FinnHub
+from minance.mock_account import MockAccount
+from minance.stock_api import FinnHub
 
 
 class TestMockAccount(unittest.TestCase):

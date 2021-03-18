@@ -1,4 +1,4 @@
-from pymoney.mock_account import MockAccount
+from minance.mock_account import MockAccount
 
 
 def main(sandbox=True):
